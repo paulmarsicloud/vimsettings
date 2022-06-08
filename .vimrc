@@ -3,4 +3,7 @@ set expandtab //expands or replaces tab with 2 spaces
 set number ruler //decent for line numbers with large yaml files
 set autoindent smartindent nonsmartindent
 syntax enable // colour codes file
-filetype plugin indent on //vim might know its a YAML this way 
+filetype plugin indent on //vim might know its a YAML this way
+
+
+I think this line should live here
